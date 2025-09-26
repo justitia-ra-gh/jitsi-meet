@@ -1,6 +1,6 @@
 # Fork for Justitia
 
-[Justitia](https://www.justitia.com/) runs jitsi-meet [here](http://viko.justitia.com/).
+The [Justitia](https://www.justitia.com/) law office runs jitsi-meet [here](http://viko.justitia.com/) for video meetings.
 
 # <p align="center">Jitsi Meet</p>
 
